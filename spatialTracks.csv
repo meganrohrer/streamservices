@@ -1,4 +1,4 @@
-﻿trackField,sequence,message,longitude,latitude,timestamp
+﻿trackField,sequence,message,spatial_longitude,spatial_latitude,timestamp
 A,1,Message #1 for track A.,-95.27886582,30.7325032,10/16/2021 13:00
 B,1,Message #1 for track B.,-92.21553602,31.11706781,10/16/2021 13:00
 C,1,Message #1 for track C.,-89.23926658,31.16271085,10/16/2021 13:00
